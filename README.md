@@ -1,3 +1,4 @@
+```yaml
 services:
   itbob-discordbot:
     image: 'ghcr.io/developmentstorage/itbob-discordbot:latest'
